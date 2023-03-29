@@ -1,0 +1,53 @@
+.contacts {
+  padding: 4% 0%;
+  text-align: center;
+  width: auto;
+  height: auto;
+  background: #121212;
+  color: #ffffff;
+}
+
+.contacts-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 5%;
+  text-align: left;
+}
+
+.contacts-icons img {
+  padding: 0% 2%;
+  filter: invert();
+  width: 35px;
+  height: 35px;
+}
+
+.contacts-hr1{
+  color: #018786;
+  width: 40%;
+}
+
+.loaction {
+  flex: 1 1 40%;
+  padding-right: 100px;
+}
+
+.india-png {
+  width: 50px;
+  height: 35px;
+  padding: 5% 0%;
+}
+
+.address {
+  font-size: 0.9em;
+  border-top: 2px solid white;
+}
+
+.address p {
+  line-height: 10px;
+}
+
+.form-section {
+  flex: 1 1 60%;
+  
+}
+

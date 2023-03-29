@@ -1,0 +1,31 @@
+.Home .contents {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  place-items: center;
+  padding-left: 5%;
+  color: rgb(211, 211, 211);
+  background: #121212;
+}
+
+.Home .contents h1 {
+  padding: 0 20px;
+}
+
+.Home .social-icons img , .doc_icons img{
+  padding: 0 20px;
+  width: 30px;
+  filter: invert();
+  /* background: rgb(255, 255, 255);
+  opacity: 0.1; */
+}
+
+.Home .social-icons img:hover {
+  transform: scale(1.5);
+  transition: 500ms;
+}
+
+.Home .social-icons a {
+  cursor: pointer;
+}
+

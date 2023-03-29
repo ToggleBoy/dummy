@@ -1,0 +1,78 @@
+.project , .project-link a{
+  color: white;
+
+}
+
+.project .content {
+  padding: 4% 0%;
+  text-align: center;
+  width: auto;
+  height: auto;
+  background: #121212;
+  line-height: 200%;
+}
+
+img {
+  padding-top: 30%;
+}
+
+p {
+  font-size: 1.15em;
+}
+
+.hr-1{
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  margin: 5%;
+}
+
+.hr-2 {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  margin: 3%;
+}
+
+.description {
+  padding: 0% 5%;
+  text-align: center;
+}
+
+.project-left{
+  margin: 4% 0% 0% 0%;
+  padding: 3% 5% 5% 5%;
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+  height: auto;
+  background: #5b5c5c;
+  background-image: linear-gradient(to top, #5b5c5c1c, #121212);
+  color: whitesmoke;
+
+}
+
+.project-right {
+  padding: 3% 5% 5% 5%;
+  width: auto;
+  height: auto;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  background: #5b5c5c;
+  background-image: linear-gradient(to bottom, #5b5c5c1c, #121212);
+  color: whitesmoke;
+}
+
+.project-link {
+  background-color: green;
+  font-size: 1.15em;
+  border-radius: 20px;
+  padding: 10px 35px;
+  transition: 500ms ease-out;
+}
+
+.project-link:hover {
+  transform: scale(1.1);
+}

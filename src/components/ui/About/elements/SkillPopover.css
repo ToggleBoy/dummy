@@ -1,0 +1,20 @@
+.section_button {
+  background: rgb(108, 17, 150);
+  font-size: 1.1rem;
+  color: white;
+  padding: 10px 20px;
+  margin: 1.5% 0.5%;
+  border-radius: 10px;
+  border: 3px solid rgb(177, 130, 199);
+
+}
+
+.skillButton {
+  background: green;
+  font-size: 1.1rem;
+  color: white;
+  padding: 10px 20px;
+  margin: 1.5% 0.5%;
+  border-radius: 50px;
+  border: none;
+}

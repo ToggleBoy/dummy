@@ -1,0 +1,84 @@
+.about {
+  padding: 4% 0%;
+  text-align: left;
+  width: auto;
+  height: 100%;
+  background: #121212;
+  color: whitesmoke;
+}
+
+.section_icons {
+  display: flex;
+}
+
+.doc_icons {
+  display: flex;
+  padding: 1.5% 0% 0% 0%;
+}
+
+.doc_icons img {
+  width: 40px;
+  height: 40px;
+}
+
+.about_hr1{
+  color: #018786;
+  width: 40%;
+}
+
+
+.about .contents h1 {
+  font-size: 1.5em;
+}
+
+.about h4{
+  color:#03dac6;
+}
+
+.intro {
+  margin: 100px;
+  line-height: 200%;
+}
+
+.about .contents {
+  text-align: center;
+  padding: 0% 3%;
+  font-size: 1.25em;
+  line-height: 200%;
+}
+
+.skills{
+  text-align: left;
+  padding-left: 5%;
+  padding-bottom: 8%;
+}
+
+.qualification {
+  padding: 3% 0%;
+}
+
+.qualification {
+  text-align: left;
+  padding-left: 5%;
+}
+
+.Experience {
+  text-align: left;
+  padding: 5% 0% 5% 5%;
+}
+
+.Qualification-section {
+  padding: 3% 5%;
+  font-size: 0.8em;
+}
+
+.experience-content {
+  padding: 0% 5%;
+  font-size: 0.8em;
+  line-height: normal;
+}
+
+.experience-content h3 {
+  border-bottom: 1px solid white;
+  padding-bottom: 10px;
+}
