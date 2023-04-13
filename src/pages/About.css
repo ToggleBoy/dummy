@@ -1,5 +1,5 @@
 .about {
-  padding: 4% 0%;
+  padding: 4% 7%;
   text-align: left;
   width: auto;
   height: 100%;
@@ -73,9 +73,11 @@
 }
 
 .experience-content {
-  padding: 0% 5%;
+  margin: 0% 5%;
   font-size: 0.8em;
   line-height: normal;
+  /* border-bottom-radius: 25px; */
+  border-right: 5px solid white;
 }
 
 .experience-content h3 {

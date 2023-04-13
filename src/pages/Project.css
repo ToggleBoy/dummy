@@ -4,7 +4,7 @@
 }
 
 .project .content {
-  padding: 4% 0%;
+  padding: 4% 7%;
   text-align: center;
   width: auto;
   height: auto;
@@ -47,7 +47,7 @@ p {
   justify-content: space-between;
   width: auto;
   height: auto;
-  background: #5b5c5c;
+  background: #5b5c5c34;
   background-image: linear-gradient(to top, #5b5c5c1c, #121212);
   color: whitesmoke;
 
@@ -60,7 +60,7 @@ p {
   text-align: right;
   display: flex;
   justify-content: space-between;
-  background: #5b5c5c;
+  background: #5b5c5c34;
   background-image: linear-gradient(to bottom, #5b5c5c1c, #121212);
   color: whitesmoke;
 }
